@@ -4,4 +4,4 @@ Fast Debugger (ruby-debug-ide 0.4.16, ruby-debug-base 0.10.4) listens on 127.0.0
 	/Library/Ruby/Gems/1.8/gems/ruby-debug-ide-0.4.16/bin/rdebug-ide:87
 	/usr/bin/rdebug-ide:19:in `load'
 	/usr/bin/rdebug-ide:19
-Uncaught exception: no such file to load -- /Users/sinux/Documents/code/ruby/learn to program/script/server
+Uncaught exception: no such file to load -- /Users/sinux/script/server
